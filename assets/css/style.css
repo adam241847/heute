@@ -1,0 +1,180 @@
+header{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+}
+#cf{
+    width: 45%;
+    padding: 250px 0 0 150px;
+
+
+}
+header h1{
+    padding: 0 0 0 30px;
+    width: 30%;
+    font-size: 80px;
+    letter-spacing: 70px;
+    font-family: 'Work Sans', ;
+    font-weight: 90;
+}
+header p{
+    font-size: 20px;
+    font-family: 'Lora', ;
+    letter-spacing: 5px;
+}
+header img{
+    height: 100vh;
+    width: 100%;
+}
+/* +++++++++++++++++++++++++++++++++++++++++++ */
+section{
+    height: 370VH;
+    width: 100%;
+    background-color: #2e2e2e
+}
+section main{
+    display: flex;
+    position: sticky;
+    top: 0;
+    background-color: #2e2e2e;
+}
+main ul{
+    margin-left:auto ;
+    display: flex;
+}
+main ul li{
+     padding: 15px 40px 0 40px;
+     list-style: none;
+}
+main a{
+    text-decoration: none;
+    color: white;
+    letter-spacing: 3px;
+}
+#sec{
+    display: flex;
+}
+#sec img{
+    width: 100%;
+    margin: 60px 0 60px 0;
+    height: 100%;
+}
+#sev{
+    margin: 100px 0 0 50px;
+}
+#sev h1{
+    padding: 0 0 0 200px;
+    font-size: 60px;
+    font-family: 'Work Sans', ;
+    font-weight: 90;
+    color: white;
+}
+#sev p{
+    font-size: 30px;
+    font-family: 'Work Sans', ;
+    font-weight: 90;
+    color: white;
+    letter-spacing: 2px;
+}
+/* +++++++++++++++++++++++++++++++++++++++++++ */
+#section2{
+    height: 160vh;
+    background-color: white;
+}
+#section2 h1{
+    padding: 200px 0 0 560px;
+    font-size: 60px;
+    font-family: 'Work Sans', ;
+    font-weight: 90;
+    color: black;
+}
+#section2 p{
+    padding: 0 0 50px 410px;
+    font-family: 'Work Sans', ;
+    font-weight: 90;
+    letter-spacing: 5px;
+}
+#mybilder{
+    display: flex;
+}
+#section2 img{
+    width: 380px;
+    margin: 3%;
+}
+.veido{
+ display: flex;
+ justify-content: center;
+
+}
+/* +++++++++++++++++++++++++++++++++++++++++++++ */
+#section3{
+    height: 90vh;
+    display: flex;
+}
+#section3 h1{
+    padding: 200px 0 0 60px;
+    font-size: 50px;
+    font-family: 'Work Sans', ;
+    font-weight: 90;
+    color: white;
+}
+#section3 p{
+    padding: 0 0 50px 60px;
+    font-family: 'Work Sans', ;
+    font-weight: 90;
+    letter-spacing: 5px;
+    color: white;
+
+}
+.contact{
+    margin: 240px 0 0 250px;
+    font-size: 20px;
+    color: white;
+
+}
+#section3 label{
+
+}
+input{
+    width: 300px;
+    height: 20px;
+}
+button{
+    width: 80px;
+    height: 30px;
+}
+/* +++++++++++++++++footer+++++++++++++++++++++ */
+footer{
+    height: 15vh;
+    background-color: #1d2c2f ;
+    display: flex;
+}
+footer h2{
+    margin-left: 40px;
+    margin-top: 50px;
+    color: white;
+    font-family: 'Work Sans', ;
+    font-weight: 90;
+}
+footer h1{
+    margin-left: 320px;
+    margin-top: 50px;
+    color: white;
+    font-family: 'Work Sans', ;
+    font-weight: 90;
+}
+footer ul{
+    display: flex;
+    list-style: none;
+   margin-left: 80px;
+    margin-top: 50px;
+    font-family: 'Work Sans', ;
+}
+footer li{
+   margin-left: 20%;
+}
+footer a{
+    text-decoration: none;
+    color: white;
+    letter-spacing: 3px;
+}
